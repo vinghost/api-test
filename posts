@@ -1,5 +1,4 @@
-{
-  "posts": [
+ [
     {
       "firstname": "vinayak",
       "lastname": "pawar",
@@ -17,4 +16,3 @@
   "profile": {
     "name": "typicode"
   }
-}
